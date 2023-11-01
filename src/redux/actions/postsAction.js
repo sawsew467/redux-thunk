@@ -1,4 +1,4 @@
-import { getAllComments, addComment, getAllPosts, addPost } from "../../apis/index.js";
+import { getAllPosts, addPost } from "../../apis/index.js";
 import { postsTypes } from "../ActionTypes/postsTypes.js";
 
 export const fetchAllPosts = () => async (dispatch) => {
