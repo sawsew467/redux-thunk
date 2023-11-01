@@ -130,18 +130,6 @@
         "Science"
       ],
       "status": true
-    },
-    {
-      "title": "ReactJS",
-      "author": "ThangTVB",
-      "content": "toi la gThang",
-      "tags": [
-        "Java",
-        " SQL Server"
-      ],
-      "status": true,
-      "timestamp": "2023-11-01T04:22:37.020Z",
-      "id": "RS1hvlX"
     }
   ]
 }
